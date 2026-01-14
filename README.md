@@ -1,5 +1,9 @@
 # Project Report Analyzer
 
+## Video Demo
+
+Link: [Public Google Drive Link](https://drive.google.com/file/d/1dGLZKq9j6lbzk01fAt3hwgwYgv9SP6G_/view?usp=sharing)
+
 ## Prerequisites
 
 Before running this project, ensure you have:
