@@ -1,0 +1,55 @@
+streamlit==1.31.0
+
+# PDF Processing
+pdfplumber==0.10.3
+PyPDF2==3.0.1
+pdfminer.six==20221105
+pypdfium2==5.3.0
+
+# Embeddings & Vector Store
+sentence-transformers==2.3.1
+faiss-cpu==1.7.4
+torch==2.5.1
+numpy==1.24.3
+scipy==1.15.3
+scikit-learn==1.7.2
+
+# LLM Integration
+langchain==0.1.4
+langchain-community==0.0.17
+langchain-core==0.1.23
+ollama==0.1.6
+
+# Text Processing
+tiktoken==0.5.2
+nltk==3.8.1
+transformers==4.57.3
+tokenizers==0.22.2
+huggingface-hub==0.36.0
+
+# Utilities
+tqdm==4.66.1
+pandas==2.1.4
+pillow==10.2.0
+requests==2.32.5
+python-dotenv==1.0.0
+
+certifi==2026.1.4
+charset-normalizer==3.4.4
+click==8.3.1
+filelock==3.20.3
+joblib==1.5.3
+Jinja2==3.1.6
+MarkupSafe==3.0.3
+packaging==23.2
+pydantic==2.12.5
+pydantic_core==2.41.5
+PyYAML==6.0.3
+regex==2025.11.3
+safetensors==0.7.0
+sentencepiece==0.2.1
+sympy==1.13.1
+tenacity==8.5.0
+threadpoolctl==3.6.0
+typing_extensions==4.15.0
+urllib3==2.6.3
